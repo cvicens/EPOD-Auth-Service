@@ -31,6 +31,8 @@ require('fh-wfm-user/lib/router/mbaas')(mediator, app);
 // app modules
 require('./lib/user')(mediator);
 
+app.use('/user', require('./lib/user-service.js')(mediator));
+
 // Important that this is last!
 app.use(mbaasExpress.errorHandler());
 

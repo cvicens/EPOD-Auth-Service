@@ -8,7 +8,10 @@
     "email" : "trever@wfm.com",
     "notes" : "Trever doesn't work during the weekends.",
     "avatar" : "https://s3.amazonaws.com/uifaces/faces/twitter/kolage/128.jpg",
-    "banner" : "http://web18.streamhoster.com/pentonmedia/beefmagazine.com/TreverStockyards_38371.jpg"
+    "banner" : "http://web18.streamhoster.com/pentonmedia/beefmagazine.com/TreverStockyards_38371.jpg",
+    "vehicle" : "GA 3375F",
+    "password": "MD5",
+    "works": "TOL"
   },
   {
     "id" : "rJeXyfdrH",
@@ -17,7 +20,11 @@
     "position" : "Junior Dispatcher",
     "phone" : "(265) 754 8176",
     "email" : "daisy@wfm.com",
-    "avatar" : "https://s3.amazonaws.com/uifaces/faces/twitter/madysondesigns/128.jpg"
+    "notes" : "Trever doesn't work during the weekends.",
+    "avatar" : "https://s3.amazonaws.com/uifaces/faces/twitter/madysondesigns/128.jpg",
+    "vehicle" : "LM58 ZVD",
+    "password": "MD5",
+    "works": "TOL"
   },
   {
     "id" : "H1ZmkzOrr",
@@ -26,7 +33,9 @@
     "position" : "Manager",
     "phone" : "(265) 716 3154",
     "email" : "max@wfm.com",
-    "avatar" : "https://s3.amazonaws.com/uifaces/faces/twitter/davidburlton/128.jpg"
+    "avatar" : "https://s3.amazonaws.com/uifaces/faces/twitter/davidburlton/128.jpg",
+    "password": "MD5",
+    "works": "BWL"
   },
   {
     "id" : "ByzQyz_BS",
@@ -35,7 +44,10 @@
     "position" : "Phone Support",
     "phone" : "(265) 734 3446",
     "email" : "phylis@wfm.com",
-    "avatar" : "https://s3.amazonaws.com/uifaces/faces/twitter/ladylexy/128.jpg"
+    "avatar" : "https://s3.amazonaws.com/uifaces/faces/twitter/ladylexy/128.jpg",
+    "vehicle" : "1412",
+    "password": "MD5",
+    "works": "TOL"
   },
   {
     "id" : "BJQm1G_BS",
@@ -44,7 +56,10 @@
     "position" : "Junior Truck Driver",
     "phone" : "(265) 721 1126",
     "email" : "johnf@wfm.com",
-    "avatar" : "https://s3.amazonaws.com/uifaces/faces/twitter/jfkingsley/128.jpg"
+    "avatar" : "https://s3.amazonaws.com/uifaces/faces/twitter/jfkingsley/128.jpg",
+    "vehicle" : "4999",
+    "password": "MD5",
+    "works": "TOL"
   },
   {
     "id" : "SyVXyMuSr",
@@ -53,7 +68,10 @@
     "position" : "Junior Truck Driver",
     "phone" : "(265) 311 1527",
     "email" : "billb@wfm.com",
-    "avatar" : "https://s3.amazonaws.com/uifaces/faces/twitter/peterme/128.jpg"
+    "avatar" : "https://s3.amazonaws.com/uifaces/faces/twitter/peterme/128.jpg",
+    "vehicle" : "5111",
+    "password": "MD5",
+    "works": "TOL"
   },
   {
     "id" : "B1r71fOBr",
@@ -62,7 +80,10 @@
     "position" : "Junior Truck Driver",
     "phone" : "(265) 389 3496",
     "email" : "sallys@wfm.com",
-    "avatar" : "https://s3.amazonaws.com/uifaces/faces/twitter/kfriedson/128.jpg"
+    "avatar" : "https://s3.amazonaws.com/uifaces/faces/twitter/kfriedson/128.jpg",
+    "vehicle" : "5222",
+    "password": "MD5",
+    "works": "TOL"
   },
   {
     "id" : "HJ8QkzOSH",
@@ -71,6 +92,9 @@
     "position" : "Junior Truck Driver",
     "phone" : "(265) 447 2304",
     "email" : "dannyd@wfm.com",
-    "avatar" : "https://s3.amazonaws.com/uifaces/faces/twitter/danbenoni/128.jpg"
+    "avatar" : "https://s3.amazonaws.com/uifaces/faces/twitter/danbenoni/128.jpg",
+    "vehicle" : "5333",
+    "password": "MD5",
+    "works": "TOL"
   }
 ]
